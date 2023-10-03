@@ -13,14 +13,14 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/Berlin
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Mauricio Mendes # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Thoughts and Discoveries in World of Electrical Engineering # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -31,21 +31,21 @@ url: "https://maumendes.github.io"
 github:
   username: MauMendes # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+  # username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Mauricio Mendes
-  email: example@domain.com # change to your email address
+  email: mauricio.eletrica@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/MauMendes # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/engmauriciomendes
 
 google_site_verification: # fill in to your verification string
 
