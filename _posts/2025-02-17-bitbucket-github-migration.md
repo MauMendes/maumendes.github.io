@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Github-Bitbucket Migration"
+title: "Bitbucket-GitHub Migration"
 date: 2025-02-17 19:18:00 +0200
 author: mauricio
 categories: [introduction]
