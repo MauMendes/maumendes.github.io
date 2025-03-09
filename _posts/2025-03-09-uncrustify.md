@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code Beautifier - Uncrustify"
-date: 2025-02-17 19:18:00 +0200
+date: 2025-03-09 11:11:00 +0200
 author: mauricio
 categories: [c]
 tags: [c, uncrustify]
