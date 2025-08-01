@@ -9,7 +9,7 @@ tags: [c, linux, memory-safety]
 
 While watching the **Kernel Hardening: Ten Years Deep – Kees Cook, Google** talk on YouTube, I came across a really interesting moment.
 
-👉 [Watch it here](https://www.youtube.com/watch?v=c_NvxSRG50g)
+👉 [Watch it here](https://www.youtube.com/watch?v=c_NxzSRG50g)
 
 At around the 24-minute mark, Kees starts pointing out the **ambiguous behavior in C**, especially around memory safety, and explains how they're starting to fix things at the compiler level. That really made me reflect on how C—despite being so powerful—is still full of landmines for developers.
 
