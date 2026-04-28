@@ -16,10 +16,11 @@ timezone: Europe/Berlin
 
 title: Mauricio Mendes # the main title
 
-tagline: Beyond the board. # it will display as the sub-title
+tagline: Firmware · Embedded Linux · Control Systems # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Showcase of my technical projects, tutorials, and blog posts related to software development and engineering.
+  Senior Embedded Software Engineer with 17+ years across automotive, marine, industrial, and agricultural sectors.
+  Writing about C/C++, AUTOSAR, PROFINET, DDS, Embedded Linux, and hands-on embedded projects.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,8 +29,6 @@ url: "https://maumendes.github.io"
 github:
   username: MauMendes # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
