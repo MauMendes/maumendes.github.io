@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Open-Source KiCad Business Card"
-date: 2026-10-28 18:00:00 +0100
+date: 2026-10-28 12:00:00 +0100
 author: mauricio
 categories: [hardware]
 tags: [pcb, kicad, open source, ai, electronica]
