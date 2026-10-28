@@ -5,9 +5,6 @@ date: 2026-10-28 12:00:00 +0100
 author: mauricio
 categories: [hardware]
 tags: [pcb, kicad, open source, ai, electronica]
-image:
-  path: /assets/img/pcb-card/card_back_3d.png
-  alt: The back of my PCB business card, full of footprints and reference tables
 ---
 
 This year I'm going to [**electronica in Munich**](https://electronica.de/). Every time I go to a trade fair, the same idea comes back: *I should make a PCB business card.* This time I really did it! 🎉
